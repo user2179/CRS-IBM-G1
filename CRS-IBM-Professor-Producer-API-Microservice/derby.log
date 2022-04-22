@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Thu Apr 21 22:49:52 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0180-4d23-2d2c-000003058718 
+on database directory memory:C:\Users\003BD2744\Documents\Code\B1-IBM_Assignments\CRS-IBM-Professor-Producer-API-Micoservice-1\74d00b9a-0b37-4e3c-b016-3bc3e21e3483 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/003BD2744/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\003BD2744\Documents\Code\B1-IBM_Assignments\CRS-IBM-Professor-Producer-API-Micoservice-1
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Apr 21 22:49:54 IST 2022:
+Shutting down instance a816c00e-0180-4d23-2d2c-000003058718 on database directory memory:C:\Users\003BD2744\Documents\Code\B1-IBM_Assignments\CRS-IBM-Professor-Producer-API-Micoservice-1\74d00b9a-0b37-4e3c-b016-3bc3e21e3483 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
